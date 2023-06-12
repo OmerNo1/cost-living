@@ -26,7 +26,7 @@ const connectDB = async () => {
     try {
         // mongodb+srv://cost-living:uSGJQ4P4Aa1PbDo7@cluster0.ktvsn8w.mongodb.net/CostLiving?retryWrites=true&w=majority
         //mongodb+srv://OmerNorman:fHZdpDrHkaEI9eex@cluster0.5rmvbkd.mongodb.net/?retryWrites=true&w=majority
-        const url ='mongodb://atlas-sql-6470eb46de7ad1255a5d29da-a7s6m.a.query.mongodb.net/OmerNorman?ssl=true&authSource=admin'
+        const url ='mongodb+srv://OmerNorman:fHZdpDrHkaEI9eex@cluster0.5rmvbkd.mongodb.net/'
             //'mongodb+srv://OmerNorman:fHZdpDrHkaEI9eex@cluster0.5rmvbkd.mongodb.net/OmerNorman?retryWrites=true&w=majority';
         //console.log("Connected successful");
         mongoose.set("strictQuery", false);
