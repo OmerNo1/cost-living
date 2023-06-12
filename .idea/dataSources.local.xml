@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-223.8617.44">
+    <data-source name="cost-living DB" uuid="da316f76-3f1b-44f8-9431-3149f70b6e3c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>OmerNorman</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
